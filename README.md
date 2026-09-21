@@ -54,10 +54,6 @@ settlement-regression-quest/
 ├── tests/
 │   └── settlement.spec.ts
 │
-├── public/
-│   ├── index.html
-│   ├── app.js
-│   └── styles.css
 │
 ├── docs/
 │   └── defect-report.md
